@@ -1,0 +1,15 @@
+C:\Users\frgas\Desktop\P234\H08-April\H08-April\bin\Debug\net6.0\H08-April.exe
+C:\Users\frgas\Desktop\P234\H08-April\H08-April\bin\Debug\net6.0\H08-April.deps.json
+C:\Users\frgas\Desktop\P234\H08-April\H08-April\bin\Debug\net6.0\H08-April.runtimeconfig.json
+C:\Users\frgas\Desktop\P234\H08-April\H08-April\bin\Debug\net6.0\H08-April.dll
+C:\Users\frgas\Desktop\P234\H08-April\H08-April\bin\Debug\net6.0\H08-April.pdb
+C:\Users\frgas\Desktop\P234\H08-April\H08-April\obj\Debug\net6.0\H08-April.csproj.AssemblyReference.cache
+C:\Users\frgas\Desktop\P234\H08-April\H08-April\obj\Debug\net6.0\H08-April.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frgas\Desktop\P234\H08-April\H08-April\obj\Debug\net6.0\H08-April.AssemblyInfoInputs.cache
+C:\Users\frgas\Desktop\P234\H08-April\H08-April\obj\Debug\net6.0\H08-April.AssemblyInfo.cs
+C:\Users\frgas\Desktop\P234\H08-April\H08-April\obj\Debug\net6.0\H08-April.csproj.CoreCompileInputs.cache
+C:\Users\frgas\Desktop\P234\H08-April\H08-April\obj\Debug\net6.0\H08-April.dll
+C:\Users\frgas\Desktop\P234\H08-April\H08-April\obj\Debug\net6.0\refint\H08-April.dll
+C:\Users\frgas\Desktop\P234\H08-April\H08-April\obj\Debug\net6.0\H08-April.pdb
+C:\Users\frgas\Desktop\P234\H08-April\H08-April\obj\Debug\net6.0\H08-April.genruntimeconfig.cache
+C:\Users\frgas\Desktop\P234\H08-April\H08-April\obj\Debug\net6.0\ref\H08-April.dll
